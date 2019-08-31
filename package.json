@@ -1,0 +1,19 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "Docker 101 - Creation to Deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
